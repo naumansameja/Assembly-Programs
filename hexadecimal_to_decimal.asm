@@ -1,3 +1,4 @@
+; This Program takes input in hexadecimal and prints it in decimal.
 dosseg
 .model small
 .stack 100h
