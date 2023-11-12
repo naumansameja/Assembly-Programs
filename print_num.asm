@@ -1,3 +1,6 @@
+; This program print all the positive numbers from an array in decimal, binary, and hexadecimal one  by one 
+
+
 dosseg
 .model small
 .stack 100h
