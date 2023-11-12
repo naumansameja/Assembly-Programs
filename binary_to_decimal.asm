@@ -1,3 +1,5 @@
+;This Program takes input in binary and prints it in decimal.
+
 dosseg
 .model small
 .stack 100h
